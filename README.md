@@ -1,4 +1,3 @@
-# MCE
 # MCE-Net
 This repo is the official implementation of (MCE-Net: Polyp Segmentation with Multiple Branch Series-parallel Attention and Channel Interaction Via Edge Distribution Guidance). 
 
